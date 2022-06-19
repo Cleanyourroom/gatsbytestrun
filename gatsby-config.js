@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `4H Breed ID`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `FR 4H Breed ID`,
+    description: `Learn ARBA Breed ID anytime, anywhere.`,
+    author: `Francisco Rodriguez`,
+    siteUrl: `https://snowynight.net`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
