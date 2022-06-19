@@ -94,7 +94,7 @@ samp {
 }
 hr {
   box-sizing: content-box;
-  overflow: visible;
+//  overflow: visible;
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
@@ -139,8 +139,8 @@ pre {
   margin-bottom: var(--space-4);
   font-size: 0.875rem;
   line-height: var(--line-height-normal);
-  background: hsla(0, 0%, 0%, 0.04);
-  border-radius: var(--border-radius);
+  //background: hsla(0, 0%, 0%, 0.04);
+  //border-radius: var(--border-radius);
   overflow: auto;
   word-wrap: normal;
   padding: var(--space-4);
