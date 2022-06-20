@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `FR 4H Breed ID`,
+    title: `Breed ID`,
     description: `Learn ARBA Breed ID anytime, anywhere.`,
     author: `Francisco Rodriguez`,
     siteUrl: `https://snowynight.net`,
