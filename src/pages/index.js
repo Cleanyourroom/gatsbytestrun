@@ -26,7 +26,7 @@ class Home extends React.Component {
                             </div>
                             <div className="col-lg-3 col-md-4 col-sm-7 col-8">
                                 <div className="main-fade-in-animation-delay-1">
-                                    <StaticImage width={300} height={300} className="main-fit-element main-circle" src="../img/portrait-spray.jpg" alt="Portrait" />
+                                    <StaticImage width={300} height={300} className="main-fit-element main-circle" /*src="../img/portrait-spray.jpg"*/ alt="Portrait" />
                                 </div>
                             </div>
                         </div>
@@ -55,39 +55,19 @@ class Home extends React.Component {
                             <div className="row align-items-center justify-content-center">
                                 <div className="col-md-3 col-sm-4 col-5">
                                     <a aria-label="Offensive Security Certified Professional on Credly" target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/dd8f0eb6-b98c-4207-a4e2-0f0f8bc17df2">
-                                        <StaticImage width={256} height={256} className="main-badge" src="../img/OSCP.png" alt="Offensive Security Certified Professional" />
+  //                                      <StaticImage width={256} height={256} className="main-badge" /*src="../img/OSCP.png"*/ alt="Offensive Security Certified Professional" />
                                     </a>
                                 </div>
                                 <div className="col-md-7 col-12">
                                     <div className="row justify-content-center">
                                         <div className="col-sm-4 col-5">
                                             <a aria-label="CompTIA IT Fundamentals on Credly" target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/034299de-42cb-4a21-a645-54c9b17b94c2">
-                                                <StaticImage width={200} height={200} className="main-badge" src="../img/ITF.png" alt="CompTIA ITF+" />
+                                                <StaticImage width={200} height={200} className="main-badge" /*src="../img/OSCP.png"*/ alt="CompTIA ITF+" />
                                             </a>
                                         </div>
                                         <div className="col-sm-4 col-5">
                                             <a aria-label="CompTIA A+ on Credly" target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/9e693b84-8452-488c-aaf3-16e77b41ced7">
-                                                <StaticImage width={200} height={200} className="main-badge" src="../img/A.png" alt="CompTIA A+" />
-                                            </a>
-                                        </div>
-                                        <div className="col-sm-4 col-5">
-                                            <a aria-label="CompTIA Network+ on Credly" target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/7e83577c-5acb-4fcc-89b6-2c81b58d63e4">
-                                                <StaticImage width={200} height={200} className="main-badge" src="../img/Network.png" alt="CompTIA Network+" />
-                                            </a>
-                                        </div>
-                                        <div className="col-sm-4 col-5">
-                                            <a aria-label="CompTIA Security+ on Credly" target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/76488e94-7792-404b-91cb-aabc7952c02f">
-                                                <StaticImage width={200} height={200} className="main-badge" src="../img/Security.png" alt="CompTIA Security+" />
-                                            </a>
-                                        </div>
-                                        <div className="col-sm-4 col-5">
-                                            <a aria-label="CompTIA IT Operations Specialist on Credly" target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/5f2a4560-2a6e-41e4-9dc8-8f0bddd6d459">
-                                                <StaticImage width={200} height={200} className="main-badge" src="../img/CIOS.png" alt="CompTIA IT Operations Specialist" />
-                                            </a>
-                                        </div>
-                                        <div className="col-sm-4 col-5">
-                                            <a aria-label="CompTIA Secure Infrastructure Specialist on Credly" target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/e604fdf1-44b5-4e8f-9562-bf4da5e9800c">
-                                                <StaticImage width={200} height={200} className="main-badge" src="../img/CSIS.png" alt="CompTIA Secure Infrastructure Specialist" />
+                                                <StaticImage width={200} height={200} className="main-badge" /*src="../img/A.png"*/ alt="CompTIA A+" />
                                             </a>
                                         </div>
                                     </div>
@@ -119,9 +99,6 @@ class Home extends React.Component {
                                                     <p className="card-text m-0"><a aria-label="SIGPwny website" target="_blank" rel="noopener noreferrer" href="https://sigpwny.com/">Go to sigpwny.com</a></p>
                                                 </div>
                                             </div>
-                                            <div className="col-md-5">
-                                                <StaticImage width={1024} height={768} className="img-fluid main-rounded-end-lg" src="../img/sigpwny_cyphercon_2022.jpg" alt="SIGPwny at CypherCon 2022" />
-                                            </div>
                                         </div>
                                     </div>
                                 </RevealAnimation>
@@ -138,9 +115,6 @@ class Home extends React.Component {
                                                     <p className="card-text">During high school, I established 101sec as a student-led program with the mission to make infosec engaging for students. I helped organize events, recruit new members, and educate others about cybersecurity. Today, I continue to mentor the team.</p>
                                                     <p className="card-text m-0"><a aria-label="101sec website" target="_blank" rel="noopener noreferrer" href="https://101sec.net/cyber">Go to 101sec.net</a></p>
                                                 </div>
-                                            </div>
-                                            <div className="col-md-5 order-md-1">
-                                                <StaticImage width={1024} height={768} className="img-fluid main-rounded-start-lg" src="../img/cpxiii_nats_101sec.jpg" alt="101sec CyberPatriot XIII National Finals team" />
                                             </div>
                                         </div>
                                     </div>
@@ -159,7 +133,7 @@ class Home extends React.Component {
                                                 </div>
                                             </div>
                                             <div className="col-md-5">
-                                                <StaticImage width={1024} height={768} className="img-fluid main-rounded-end-lg" src="../img/frc_2019_champs.jpg" alt="WildStang at FRC 2019 World Championship" />
+                                                <StaticImage width={1024} height={768} className="img-fluid main-rounded-end-lg" /*src="../img/frc_2019_champs.jpg"*/ alt="WildStang at FRC 2019 World Championship" />
                                             </div>
                                         </div>
                                     </div>
