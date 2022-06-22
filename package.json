@@ -1,8 +1,8 @@
 {
-  "name": "whitehoodhacker.net",
+  "name": "snowynight.net",
   "private": true,
-  "description": "WhiteHoodHacker's personal website and blog",
-  "version": "1.0.3",
+  "description": "4H Breed ID Website",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -58,9 +58,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/WhiteHoodHacker/whitehoodhacker.net"
+    "url": "https://github.com/Cleanyourroom/gatsbytestrun"
   },
   "bugs": {
-    "url": "https://github.com/WhiteHoodHacker/whitehoodhacker.net/issues"
+    "url": "https://github.com/Cleanyourroom/gatsbytestrun"
   }
 }

@@ -234,20 +234,20 @@ class Home extends React.Component {
                                             </tr>
                                         </thead>
                                         <tbody>
-                                            <tr><td>NCL Spring 2018 Preseason</td><td>789 / 3124</td><td>WhiteHoodHacker</td></tr>
-                                            <tr><td>NCL Spring 2018 Individual Game</td><td>577 / 2452</td><td>WhiteHoodHacker</td></tr>
-                                            <tr><td>NCL Spring 2019 Preseason</td><td>104 / 4482</td><td>WhiteHoodHacker</td></tr>
-                                            <tr><td>NCL Spring 2019 Individual Game</td><td>60 / 3607</td><td>WhiteHoodHacker</td></tr>
+                                            <tr><td>NCL Spring 2018 Preseason</td><td>789 / 3124</td><td>snowynight</td></tr>
+                                            <tr><td>NCL Spring 2018 Individual Game</td><td>577 / 2452</td><td>snowynight</td></tr>
+                                            <tr><td>NCL Spring 2019 Preseason</td><td>104 / 4482</td><td>snowynight</td></tr>
+                                            <tr><td>NCL Spring 2019 Individual Game</td><td>60 / 3607</td><td>snowynight</td></tr>
                                             <tr><td>ångstromCTF 2019</td><td>383 / 1570</td><td>verybad</td></tr>
                                             <tr><td>NCL Spring 2019 Team Game</td><td>61 / 548</td><td>101sec</td></tr>
-                                            <tr><td>NCL Spring 2020 Preseason</td><td>9 / 5379</td><td>WhiteHoodHacker</td></tr>
+                                            <tr><td>NCL Spring 2020 Preseason</td><td>9 / 5379</td><td>snowynight</td></tr>
                                             <tr><td>NCL Spring 2020 Individual Game</td><td>68 / 5357</td><td>White</td></tr>
                                             <tr><td>NCL Spring 2020 Team Game</td><td>97 / 925</td><td>101sec</td></tr>
                                             <tr><td>TJCTF 2020</td><td>474 / 1205</td><td>101sec</td></tr>
                                             <tr><td>LBC2 2021 Advanced Division</td><td> 4 / 16</td><td>101sec</td></tr>
                                             <tr><td>NCL Spring 2021 Preseason</td><td>11 / 5794</td><td>White</td></tr>
                                             <tr><td>NCL Spring 2021 Individual Game</td><td>5 / 4180</td><td>White</td></tr>
-                                            <tr><td>National Cyber Scholarship Competition 2021</td><td>10 / 3277</td><td>WhiteHoodHacker</td></tr>
+                                            <tr><td>National Cyber Scholarship Competition 2021</td><td>10 / 3277</td><td>snowynight</td></tr>
                                             <tr><td>CIHSCDC 2021</td><td>1 / 8</td><td>101sec</td></tr>
                                             <tr><td>TAMUctf 2021</td><td>31 / 343</td><td>ACS Sirius</td></tr>
                                             <tr><td>HackTheBox Cyber Apocalypse 2021</td><td>112 / 4740</td><td>bob</td></tr>
@@ -262,7 +262,7 @@ class Home extends React.Component {
                                             <tr><td>NCL Fall 2021 Preseason</td><td>2 / 6506</td><td>Minh@UIUC</td></tr>
                                             <tr><td>SIGPwny Fall CTF 2021</td><td>Organizer</td><td>SIGPwny</td></tr>
                                             <tr><td>NCL Fall 2021 Individual Game</td><td>103 / 6475</td><td>White</td></tr>
-                                            <tr><td>MetaCTF Campus Party Canada CTF 2021</td><td>5 / 28</td><td>WhiteHoodHacker</td></tr>
+                                            <tr><td>MetaCTF Campus Party Canada CTF 2021</td><td>5 / 28</td><td>snowynight</td></tr>
                                             <tr><td>NCL Fall 2021 Team Game</td><td>8 / 3910</td><td>TNTECH</td></tr>
                                             <tr><td>CPTC 2021 Western Regional</td><td>N/A</td><td>UIUC</td></tr>
                                             <tr><td>MetaCTF CyberGames 2021</td><td>4 / 1343</td><td>SIGPwny</td></tr>

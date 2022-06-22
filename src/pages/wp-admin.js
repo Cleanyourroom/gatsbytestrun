@@ -9,7 +9,7 @@ class WPAdmin extends React.Component {
                 <Helmet>
                     <meta http-equiv="Refresh" content="0; url=https://www.youtube.com/watch?v=dQw4w9WgXcQ" />
                 </Helmet>
-                <Seo title="Log In ‹ WhiteHoodHacker — WordPress" description="Log In to WordPress Admin" />
+                <Seo title="Log In ‹ snowynight — WordPress" description="Log In to WordPress Admin" />
             </React.Fragment>
         )
     }

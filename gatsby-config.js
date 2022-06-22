@@ -1,15 +1,11 @@
 module.exports = {
     siteMetadata: {
-        title: `WhiteHoodHacker`,
-        description: `I am a security researcher studying Computer Science at University of Illinois Urbana-Champaign.`,
-        social: {
-            twitter: `WhiteHoodHacker`,
-        },
+        title: `4H Breed ID`,
+        description: `A site designed to help members of 4H with Rabbit Breed ID`,
         author: {
-            name: `WhiteHoodHacker`,
+            name: `Francisco Rodriguez`,
         },
-        siteUrl: `https://whitehoodhacker.net`, // Do not put trailing slash
-        image: `https://whitehoodhacker.net/icon256.png`,
+        siteUrl: `snowynight.net`,
     },
     plugins: [
         `gatsby-plugin-image`,
@@ -20,7 +16,7 @@ module.exports = {
         {
             resolve: `gatsby-plugin-canonical-urls`,
             options: {
-              siteUrl: `https://whitehoodhacker.net`,
+              siteUrl: `snowynight.net`,
               stripQueryString: true,
             }
         },

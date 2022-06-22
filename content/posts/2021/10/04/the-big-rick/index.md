@@ -2,9 +2,8 @@
 title: "IoT Hacking and Rickrolling My High School District"
 date: "2021-10-04T15:00:00.000Z"
 description: "This is the story of how I created a botnet of IPTVs to rickroll 10,000+ students for my senior prank."
-author: "WhiteHoodHacker"
+author: "snowynight"
 slug: "posts/2021-10-04-the-big-rick"
-image: "https://raw.githubusercontent.com/WhiteHoodHacker/whitehoodhacker.net/main/content/posts/2021/10/04/the-big-rick/eghs.jpg"
 ---
 import { Tweet } from "react-twitter-widgets"
 import { Link } from "gatsby"
@@ -258,4 +257,4 @@ This has been one of the most remarkable experiences I ever had in high school a
     </figure>
 </center>
 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=whitehoodhacker-net-posts-2021-09-18-the-big-rick&text=hits&color=0acc74)
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=snowynight-net-posts-2021-09-18-the-big-rick&text=hits&color=0acc74)
