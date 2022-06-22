@@ -5,7 +5,7 @@ module.exports = {
         author: {
             name: `Francisco Rodriguez`,
         },
-        siteUrl: `snowynight.net`,
+        siteUrl: `https://snowynight.net`,
     },
     plugins: [
         `gatsby-plugin-image`,
@@ -133,7 +133,7 @@ module.exports = {
                         }
                     `,
                         output: "/rss.xml",
-                        title: "WhiteHoodHacker.net Posts",
+                        title: "Remove This Posts",
                     },
                 ],
             },
